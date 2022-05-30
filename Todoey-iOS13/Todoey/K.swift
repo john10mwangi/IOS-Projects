@@ -12,5 +12,9 @@ struct K {
     
     struct Identifiers {
         static let todoListCellID = "toDoItemCell"
+        static let categoryCellID = "categoryCell"
+    }
+    struct seguesIDs {
+        static let categoriesToItemsId = "categoriesToItems"
     }
 }
